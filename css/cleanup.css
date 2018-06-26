@@ -13,7 +13,7 @@ div#wall #tag-3.slick.wicked {
   display: none;
 }
 
-#wall .parent > div {
+div#wall div.parent > div {
   display: none;
 } 
 
