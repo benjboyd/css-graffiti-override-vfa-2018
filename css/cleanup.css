@@ -20,6 +20,6 @@
   display: none; 
 }
 
-div.parent div:last-child div#tag-6 { 
+#wall  { 
   display: none;
 }
