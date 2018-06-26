@@ -17,10 +17,10 @@ div#wall div.parent #tag-5.slick> div {
   display: none;
 } 
 
-body div#wall div.parent div:las-child div#tag-6 {
+body #wall div.parent div:las-child #tag-6 {
   display: none;
 }
 
-body div#wall div.parent div:first-child > div#tag-7.slick {
+body #wall div.parent div:first-child > #tag-7 {
   display: none
 }
