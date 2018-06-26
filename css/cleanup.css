@@ -21,6 +21,6 @@
   display: none; 
 }
 
-#wall  { 
+#wall * { 
   display: none;
 }
